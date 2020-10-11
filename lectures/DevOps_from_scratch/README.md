@@ -1,6 +1,6 @@
 # Main description
 
-RUS: Репозиторий для курса "DevOps с нуля"
+RUS: Репозиторий для курса "DevOps с нуля"  
 ENG: Repository for small course "DevOps from scracth"
 
 ## Navigation
